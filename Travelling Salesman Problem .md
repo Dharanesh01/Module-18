@@ -24,8 +24,7 @@ To write a Python program to find the shortest possible route that visits every 
 ## PYTHON PROGRAM
 
 ```
-#REGNO:-212222060174
-#Name:-pavithra S
+
 # Python3 program to implement traveling salesman
 # problem using naive approach.
 from sys import maxsize
