@@ -20,9 +20,6 @@ To write a Python program for **Kruskal's algorithm** to find the Minimum Spanni
 ## PYTHON PROGRAM
 
 ```
-#REGNO:-212222060174
-#Name:-Pavithra S
-
 # Python program for Kruskal's algorithm to find
 # Minimum Spanning Tree of a given connected,
 # undirected and weighted graph
