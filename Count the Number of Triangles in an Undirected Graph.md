@@ -22,15 +22,7 @@ Also, initialize a matrix `aux3` to store the cube of the adjacency matrix (i.e.
 ## PYTHON PROGRAM
 
 ```
-#REGNO:-212222060174
-#Name:-Pavithra.S
-# A Python3 program for finding number of
-# triangles in an Undirected Graph. The
-# program is for adjacency matrix
-# representation of the graph
 
-# Utility function for matrix
-# multiplication
 def multiply(A, B, C):
 	global V
 	for i in range(V):
