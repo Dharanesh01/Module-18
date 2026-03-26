@@ -21,9 +21,7 @@ Create a `sptSet[]` array (shortest path tree set) to keep track of vertices who
 ## PYTHON PROGRAM
 
 ```
-#REGNO:-212222060174
-#Name:-Pavithra.S
-ENTER YOUR CODE HERE
+
 # Python program for Kruskal's algorithm to find
 # Minimum Spanning Tree of a given connected,
 # undirected and weighted graph
